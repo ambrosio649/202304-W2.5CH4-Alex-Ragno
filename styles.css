@@ -91,7 +91,6 @@ body .principal-container main .comments-section .comments-container .commentary
 }
 @media screen and (min-width: 900px) {
   body main .comments-section {
-    background-color: aqua;
     display: grid;
   }
 }
